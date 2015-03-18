@@ -13,7 +13,7 @@ ifrs_bsci_title_dic = {}
 ifrs_bsci_dic = {}
 ifrs_scf_dic = {}
 #dsffsafsfsfsaf
-
+#gasdfdfdafsaf
 
 
 
